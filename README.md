@@ -1,91 +1,70 @@
-```markdown
-
-
 # 🛡️ BoxStrike
 
 ### Bağımsız Siber Güvenlik Araştırma Topluluğu
 
-*"Araştır. Analiz et. Güçlendir."*
+**Araştır | Analiz Et | Güçlendir**
 
 ---
 
-![Durum](https://img.shields.io/badge/Durum-Aktif-success)
-![Kuruluş](https://img.shields.io/badge/Kuruluş-Mayıs%202026-blue)
-![Odak](https://img.shields.io/badge/Odak-Siber%20Güvenlik-red)
-![Yapı](https://img.shields.io/badge/Yapı-Kâr%20Amacı%20Gütmeyen-orange)
+## 👋 Hakkımızda
 
-</div>
+BoxStrike, Mayıs 2026’da kurulmuş bağımsız bir siber güvenlik araştırma topluluğudur.
 
----
+Amacımız Türkiye’de siber güvenlik alanında:
+- teknik bilgi üretmek
+- etik güvenlik araştırmaları yapmak
+- topluluk bilincini geliştirmek
+- bağımsız ve kâr amacı gütmeyen bir yapı oluşturmak
 
-# 👋 Hakkımızda
-
-**BoxStrike**, Mayıs 2026’da kurulmuş bağımsız bir siber güvenlik araştırma topluluğudur.
-
-Amacımız; Türkiye’de siber güvenlik ekosistemine katkı sağlayan, **bağımsız ve kâr amacı gütmeyen bir araştırma organizasyonu** haline gelmektir.
-
-Tüm çalışmalarımız yalnızca **yasal sınırlar içinde**, etik ve sorumlu araştırma prensipleriyle yürütülmektedir.
+Tüm çalışmalar yalnızca **yasal ve etik sınırlar içinde** yürütülür.
 
 ---
 
-# 🎯 Çalışma Alanlarımız
+## 🎯 Çalışma Alanlarımız
 
-- 🔍 Zafiyet (Vulnerability) Avcılığı  
-- 🐞 Bug Hunting  
-- 🦠 Malware Hunting  
-- 🧬 Malware Analizi  
-- 🌐 Web Uygulama Güvenliği  
-- 📱 Mobil Uygulama Güvenliği  
-- 🖥️ Reverse Engineering (Tersine Mühendislik)  
-- ⚙️ Binary Analizi  
-- 🔐 Savunma Odaklı Güvenlik Araştırmaları  
-- 📄 Sorumlu Açıklama (Responsible Disclosure)
-
----
-
-# ⚖️ Etik İlkeler
-
-BoxStrike olarak tüm çalışmalarımızı aşağıdaki prensiplerle yürütüyoruz:
-
-- Yalnızca **yasal izinli sistemler** üzerinde araştırma  
-- Sorumlu zafiyet bildirimi  
-- Zararlı kullanım amacı taşımayan analiz ve eğitim odaklı çalışma  
-- Topluma ve üreticilere fayda sağlayan güvenlik araştırmaları  
-
-❗ Herhangi bir yasa dışı siber faaliyeti desteklemiyoruz veya gerçekleştirmiyoruz.
+- Zafiyet (Vulnerability) Avcılığı  
+- Bug Hunting  
+- Malware Analizi  
+- Malware Hunting  
+- Web Uygulama Güvenliği  
+- Mobil Güvenlik  
+- Reverse Engineering  
+- Binary Analizi  
+- Saldırı değil, savunma odaklı güvenlik araştırmaları  
+- Sorumlu açıklama (Responsible Disclosure)
 
 ---
 
-# 🚀 Misyonumuz
+## ⚖️ Etik Yaklaşım
+
+BoxStrike:
+- sadece izinli sistemlerde araştırma yapar  
+- zararlı kullanım amacı taşımaz  
+- tüm bulguları sorumlu şekilde raporlar  
+- güvenlik ekosistemine katkı sağlamayı hedefler  
+
+---
+
+## 🚀 Misyon
 
 - Türkiye’de siber güvenlik bilincini artırmak  
-- Yerli ve bağımsız araştırma kültürünü geliştirmek  
-- Açık kaynak ve teknik bilgi üretmek  
-- Güvenlik zafiyetlerinin sorumlu şekilde raporlanmasını sağlamak  
-- Genç araştırmacılar için bir topluluk ortamı oluşturmak  
+- yerli araştırma kültürünü geliştirmek  
+- açık teknik bilgi üretmek  
+- genç araştırmacılar için topluluk oluşturmak  
 
 ---
 
-# 📬 İletişim
+## 📬 İletişim
 
-📧 E-posta  
-BoxStrikesTeam@proton.me  
-
-💬 Discord Topluluğu  
-https://disboard.org/tr/server/join/1503107267594289313  
+**E-posta:** BoxStrikesTeam@proton.me  
+**Topluluk:** https://disboard.org/tr/server/join/1503107267594289313  
 
 ---
 
-# 📌 Vizyon
+## 📌 Vizyon
 
-> Türkiye’de bağımsız, şeffaf ve teknik açıdan güçlü bir siber güvenlik araştırma topluluğu oluşturmak.
+Türkiye’de bağımsız, teknik olarak güçlü ve etik bir siber güvenlik topluluğu oluşturmak.
 
 ---
 
-<div align="center">
-
-**BoxStrike Team**  
-💙 Türkiye için siber güvenlik topluluğu
-
-
-```
+**BoxStrike Team**
