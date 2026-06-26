@@ -1,5 +1,5 @@
 ```markdown
-<div align="center">
+
 
 # 🛡️ BoxStrike
 
@@ -87,5 +87,5 @@ https://disboard.org/tr/server/join/1503107267594289313
 **BoxStrike Team**  
 💙 Türkiye için siber güvenlik topluluğu
 
-</div>
+
 ```
